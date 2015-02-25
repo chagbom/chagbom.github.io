@@ -4,7 +4,7 @@ body {
   font-family: helvetica neue, arial, sans-serif;
   color: white;
   background-color: black;
-  background-image: url(http://ak7.picdn.net/shutterstock/videos/3587729/preview/stock-footage-animation-of-chicago-skyline-city-at-sunset-timelapse.jpg);
+  background-image: url(..background.jpg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
