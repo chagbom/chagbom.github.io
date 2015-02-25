@@ -1,0 +1,40 @@
+body {
+  width: 1000px;
+  margin: 0 auto;
+  font-family: helvetica neue, arial, sans-serif;
+  color: white;
+  background-color: black;
+  background-image: url(http://ak7.picdn.net/shutterstock/videos/3587729/preview/stock-footage-animation-of-chicago-skyline-city-at-sunset-timelapse.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+h2 {
+  border-bottom: 1px solid gray;
+}
+a { 
+  color: orange;
+}
+a:hover {
+  color: purple;
+}
+p, li { 
+  font-size: 16px;
+  line-height: 24px;
+}
+img {
+  float: right;
+}
+#title {
+  float: left;
+}
+#poster {
+  float: right;
+}
+#summary {
+  clear: both;
+  background-color: gray;
+  padding: 20px;
+  border: 1px solid black;
+  margin-top: 20px;
+}
