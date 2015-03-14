@@ -60,7 +60,7 @@
 }
 
 .activities h2 {
-  color: #393c3d;
+  color: #FFA500;
   font-size: 24px;
 }
 
@@ -68,3 +68,11 @@
   font-size: 15px;
   margin-bottom: 13px;
 }main.css
+
+.activities a {
+color: #FFA500;
+font-size: 24px;
+}
+
+
+
